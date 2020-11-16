@@ -1,0 +1,4 @@
+MainClass.class
+com\entity\Buyer.class
+com\entity\Auction.class
+com\entity\AuctionedItem.class
